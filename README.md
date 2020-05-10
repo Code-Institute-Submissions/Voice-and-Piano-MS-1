@@ -12,10 +12,10 @@ The main purpose of the website would be to get people interest in taking the mu
 This section provides insight into the UX process, focusing on who this website is for, what it is that they want to achieve and how this project is the best way to help them achieve these things.
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-..* As a user who is thinking about learning a piano or singing, I want to find out information that might convince me to take a class. The option of taking a free trial class would be quite appealing.
-..* As a user who has already begun learning piano or singing, perhaps I want to find some more formal training, to help me progress, or to add other related skills like music theory.
-..* As a user who might have children who are interested in music, I want to find out if these classes look appropriate, who the teachers are and where they take place.
-..option* As a user who is thinking about learning piano or singing, I want to know about online class option.
+* As a user who is thinking about learning a piano or singing, I want to find out information that might convince me to take a class. The option of taking a free trial class would be quite appealing.
+* As a user who has already begun learning piano or singing, perhaps I want to find some more formal training, to help me progress, or to add other related skills like music theory.
+* As a user who might have children who are interested in music, I want to find out if these classes look appropriate, who the teachers are and where they take place.
+* As a user who is thinking about learning piano or singing, I want to know about online class option.
 
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 ### Strategy
