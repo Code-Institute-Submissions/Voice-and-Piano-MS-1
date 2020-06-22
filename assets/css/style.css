@@ -67,7 +67,7 @@ padding-top:.8rem;
 }
 /*---Landing Page---*/
 .home-inner {
-    background-image:url("./images/banner-image.jpg");
+    background-image:url("css/assets/images/banner-image.jpg");
 }
 .caption {
 width:100%;
@@ -94,3 +94,8 @@ font-size:1.6rem;
  padding-bottom:.5rem;
  text-transform:uppercase;
 }
+.welcome h1 {
+    font-size:2.5rem;
+  }
+
+
