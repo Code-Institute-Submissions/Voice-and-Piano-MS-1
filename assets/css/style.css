@@ -148,8 +148,92 @@ font-size:1.6rem;
 }
 /* -------------------- Footer -----------*/
 .full-width-footer {
-    background: #996600;
+    background: #754737;
+    color: #fff;
+    font-size: 14px;
+}
+.full-width-footer .widget-heading{
+   color: #F1B484;  
+}
+.full-width-footer .h5{
+    color:#Fff;
+}
+.full-width-footer a {
+    color: #fff;
+}
+.full-width-footer a:hover {
+   color: #F1B484;
 }
 .full-width-footer > .container {
-    padding: 30px 0;
+    padding: 15px 15px;
+}
+.full-width-copyright {
+    padding: 15px 0;
+    background: #7C675C;
+    color: #fff;
+    font-size: 14px;
+}
+.oh-list {
+    list-style: none;
+    padding: 0 0 0 40px;
+    position: relative;
+    margin-top: 20px;
+    max-width: 189px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.opening-hours .oh-list:before {
+    content: '\f017';
+    display: block;
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 700;
+    position: absolute;
+    left: 0;
+    font-size: 30px;
+}
+.oh-list-item {
+    margin-top: 10px;
+}
+/* -------------------------------- Icons ------- */
+.note-icon {
+    width: 34px;
+}
+/* FA Icons */
+.opening-hours .fas {
+    float: left;
+}
+.contact-icons-list,
+.social-icons-list {
+    list-style: none;
+    padding: 0;
+}
+.contact-list-item  {
+    margin: 20px 0 0;
+    padding: 0;
+}
+.contact-icons-list .fas {
+    margin: 0 1.15em 0 0;/* keep margin relative to font-size */
+}
+
+.social-icons-list li {
+    display: inline-block;
+    font-size: 18px;
+    margin: 5px 5px 0 0;
+}
+.social-icons-list li a {
+    color: #fff;
+    background:#F1B484;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 40px;
+    font-size: 24px;
+    -webkit-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    transition: all .3s ease;
+}
+.social-icons-list li a:hover {
+    background-color: #CB4A2E;
 }
