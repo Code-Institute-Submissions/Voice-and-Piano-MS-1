@@ -18,6 +18,7 @@ h1, h2, h3, h4,h5, h6 {
     letter-spacing: 2px;
     color:#A53126;
     font-weight: 600;
+    text-transform: uppercase;
 }
 img {
 	max-width: 100%;
@@ -87,7 +88,7 @@ position:absolute;
 top:40%;
 z-index:1;
 color:#FFF;
-text-transform:uppercase;
+
 } 
 
 .caption h1{
@@ -137,7 +138,11 @@ font-size:1.6rem;
 }
 .welcome h1 {
     font-size:2.5rem;
-       text-transform: uppercase;
   }
-
-
+.three-reasons h3{
+    font-size: 1.7rem;
+    text-align:center;
+  }
+.reason h3{
+    font-size: 1.2rem;
+}
