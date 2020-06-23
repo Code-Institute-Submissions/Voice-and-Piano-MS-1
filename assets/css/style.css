@@ -138,11 +138,11 @@ font-size:1.6rem;
     font-size:2.5rem;
   }
 .three-reasons h3{
-    font-size: 1.7rem;
+    font-size: 1.8rem;
     text-align:center;
   }
 .reason h3{
-    font-size: 1.2rem;
+    font-size: 1.5rem;
 }
 /* -------------------- Footer -----------*/
 
@@ -256,18 +256,18 @@ margin-top: -50px;
 
 }
 #teachers p{
-    font-weight: 400;
-    font-size:21px;
-    padding: 13px;
+    font-weight:400;
+    font-size:20px;
+    padding: 20px;
 }
 #teachers h5{
     padding: 5px;
     font-size:19px;
 }
 #teachers.card {
-    border-radius: 0;
+    border-radius: 5;
     background: #A53126;
-    box-shadow:5px 5px 15px #754737;
+    box-shadow:5px 5px 15px #F1B484;
     transition: all 0.3s ease-in;
     -webkit-transition:all 0.3s ease-in;
     -moz-transition:all 0.3s ease-in;
