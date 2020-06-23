@@ -31,11 +31,28 @@ In the 'Work/Travail' section, I wanted them to be able to quickly access work t
 
 
 ### Surface
-The colour scheme...
+   As a starting point I used the image chosen for my landing page which helped to choose the color pallete for the entire website.
+In my colour scheme obtained by [https://coolors.co/].
+	![color scheme](color-scheme.png)
+ I used a combination of red, brown and pastel color like peach. 
+I decided on this combination because, according to this article [https://99designs.ie/blog/tips/how-color-impacts-emotions-and-behaviors/:]:
+*Red can also increase a person’s appetite and can develop a passion for something, in this  case would be learning apetite;
+*Pastel colors like peach can also have an uplifting effect on your mood;
+*Brown makes you feel down to earth and creates a sense of stability and support. It’s warm and friendly, practical and dependable, and can also represent the old fashioned and well established.
+
 
 ## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+Each page features a responsive navigation bar with conventional placing of logo (top left). Each page has a footer with copyright information and social media icons linking to music school social media pages.
+
+- Home page
+There is a simple call to action button helping the user to book a free class.
+- About page
+
+- Classes page
+
+- Contact page
+
 
 ### Existing Features
 - Feature 1 - allows users X to achieve Y, by having them fill out Z
@@ -53,7 +70,12 @@ In addition, you may also use this section to discuss plans for additional featu
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
 - [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
+- The project uses **JQuery** to simplify DOM manipulation.
+- HTML & CSS programming languages
+- Bootstrap - to easily adapt the website to be responsive for all users
+- Google Fonts 
+- Font Awesome 
+
 
 
 ## Testing
@@ -92,7 +114,11 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 ### Content
 - The text for the Quotes section were taken from the ...
-- The photos used in this site were obtained from ...
+ - The photos used in this site were obtained from the below sites except from those photos from Gallery section which were obtained from Voice and Piano Music School Facebook Page. (https://www.facebook.com/vocesipian/)
+*  https://www.pexels.com/
+*  https://unsplash.com/
+* https://pixabay.com/
+
 
 ### Acknowledgements
 
