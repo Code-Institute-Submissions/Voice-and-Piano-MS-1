@@ -246,3 +246,42 @@ font-size:1.6rem;
 .lead {
     font-weight: 600;
 }
+/*----------Teachers--------------*/
+
+#teachers img{
+margin-top: -50px;
+}
+#teachers i{
+    color:#F1B484;
+
+}
+#teachers p{
+    font-weight: 400;
+    font-size:21px;
+    padding: 13px;
+}
+#teachers h5{
+    padding: 5px;
+    font-size:19px;
+}
+#teachers.card {
+    border-radius: 0;
+    background: #A53126;
+    box-shadow:5px 5px 15px #754737;
+    transition: all 0.3s ease-in;
+    -webkit-transition:all 0.3s ease-in;
+    -moz-transition:all 0.3s ease-in;
+}
+#teachers .card:hover{
+background: #A53126;
+color:#fff;
+ border-radius: 0;
+ border: none;
+box-shadow:5px 5px 10px #754737;
+}
+#teachers .card:hover h3, #teachers .card:hover i{
+   color:#fff;
+}
+#teachers .card:hover h5{
+   color:#000000;
+}
