@@ -31,15 +31,19 @@ In the 'Work/Travail' section, I wanted them to be able to quickly access work t
 
 
 ### Surface
+
    As a starting point I used the image chosen for my landing page which helped to choose the color pallete for the entire website.
 In my colour scheme obtained by [https://coolors.co/].
-	![color scheme](color-scheme.png)
+	![color-scheme] (design/color-scheme.png)
  I used a combination of red, brown and pastel color like peach. 
 I decided on this combination because, according to this article [https://99designs.ie/blog/tips/how-color-impacts-emotions-and-behaviors/:]:
 *Red can also increase a person’s appetite and can develop a passion for something, in this  case would be learning apetite;
 *Pastel colors like peach can also have an uplifting effect on your mood;
 *Brown makes you feel down to earth and creates a sense of stability and support. It’s warm and friendly, practical and dependable, and can also represent the old fashioned and well established.
 
+Typography
+
+Montserrat, this charming sans serif font is a modern classic font and it's perfect for modern website.In the same time, it adapts itself to many different personalities.
 
 ## Features
 
@@ -111,13 +115,17 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 
 ## Credits
+- https://www.w3schools.com/
+- https://www.w3schools.com/html/html5_semantic_elements.asp
+- https://getbootstrap.com/docs/4.3/layout/grid/
+- https://autoprefixer.github.io/
 
 ### Content
-- The text for the Quotes section were taken from the ...
- - The photos used in this site were obtained from the below sites except from those photos from Gallery section which were obtained from Voice and Piano Music School Facebook Page. (https://www.facebook.com/vocesipian/)
+
+- The photos used in this site were obtained from the below sites except from those photos from Gallery section which were obtained from Voice and Piano Music School Facebook Page. (https://www.facebook.com/vocesipian/)
 *  https://www.pexels.com/
 *  https://unsplash.com/
-* https://pixabay.com/
+*  https://pixabay.com/
 
 
 ### Acknowledgements
