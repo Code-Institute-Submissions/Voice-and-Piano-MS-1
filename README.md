@@ -31,10 +31,9 @@ In the 'Work/Travail' section, I wanted them to be able to quickly access work t
 
 
 ### Surface
-
-   As a starting point I used the image chosen for my landing page which helped to choose the color pallete for the entire website.
-In my colour scheme obtained by [https://coolors.co/].
-	![color-scheme] (design/color-scheme.png)
+I created a moodboard with Adobe Spark from research of colours, styles and components to visually illustrate the style I wished to pursue. You can see that moodboard ![here](design/moodboard.voiceandpiano.pdf)
+As a starting point I used the image chosen for my landing page which helped to choose the color pallete for the entire website.
+In my colour scheme obtained by [https://coolors.co/].![color-scheme](design/color-scheme.png)
  I used a combination of red, brown and pastel color like peach. 
 I decided on this combination because, according to this article [https://99designs.ie/blog/tips/how-color-impacts-emotions-and-behaviors/:]:
 *Red can also increase a person’s appetite and can develop a passion for something, in this  case would be learning apetite;
