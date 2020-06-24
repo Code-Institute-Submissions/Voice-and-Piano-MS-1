@@ -248,6 +248,13 @@ font-size:1.6rem;
     width: 100%;
     background: url("./images/header-img-about.jpg") no-repeat center center;
 }
+.header_image_classes{
+    height:600px;
+    width: 100%;
+    background: url("./images/header-img-classes.jpg") no-repeat center center;
+}
+
+
 .lead {
     font-weight: 600;
 }
