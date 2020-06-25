@@ -31,14 +31,16 @@ In the 'Work/Travail' section, I wanted them to be able to quickly access work t
 
 
 ### Surface
-I created a moodboard with Adobe Spark from research of colours, styles and components to visually illustrate the style I wished to pursue. You can see that moodboard ![here](design/moodboard.voiceandpiano.pdf)
+I created a moodboard with Adobe Spark from research of colours, styles and components to visually illustrate the style I wished to pursue. You can see that moodboard here.(design/moodboard.voiceandpiano.pdf)
+
 As a starting point I used the image chosen for my landing page which helped to choose the color pallete for the entire website.
-In my colour scheme obtained by [https://coolors.co/].![color-scheme](design/color-scheme.png)
+In my colour scheme obtained by [https://coolors.co/].
+![color-scheme](design/color-scheme.png)
  I used a combination of red, brown and pastel color like peach. 
-I decided on this combination because, according to this article [https://99designs.ie/blog/tips/how-color-impacts-emotions-and-behaviors/:]:
-*Red can also increase a person’s appetite and can develop a passion for something, in this  case would be learning apetite;
-*Pastel colors like peach can also have an uplifting effect on your mood;
-*Brown makes you feel down to earth and creates a sense of stability and support. It’s warm and friendly, practical and dependable, and can also represent the old fashioned and well established.
+I decided on this combination because, according to this article [https://99designs.ie/blog/tips/how-color-impacts-emotions-and-behaviors/:]
+* Red can also increase a person’s appetite and can develop a passion for something, in this  case would be learning apetite;
+* Pastel colors like peach can also have an uplifting effect on your mood;
+* Brown makes you feel down to earth and creates a sense of stability and support. It’s warm and friendly, practical and dependable, and can also represent the old fashioned and well established.
 
 Typography
 
@@ -72,12 +74,25 @@ In addition, you may also use this section to discuss plans for additional featu
 
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
-- [JQuery](https://jquery.com)
-- The project uses **JQuery** to simplify DOM manipulation.
-- HTML & CSS programming languages
-- Bootstrap - to easily adapt the website to be responsive for all users
-- Google Fonts 
-- Font Awesome 
+* HTML5
++ used for the structure of the website.
+* CSS3
++ used to style the website.
+*GitHub
++ used to create repository and to host the repository.
++ used for version control.
+* Gitpod
++ used as my IDE to develop the project
+* Bootstrap
++ to easily adapt the website to be responsive for all users
+* Google Fonts
++ Fonts used:
+- Montserrat 
+- Kavivanar - for headings
+* Font Awesome
++ All Icons were taken from the Font Awesome database.
+* JQuery 
++ to simplify DOM manipulation.
 
 
 
