@@ -429,4 +429,12 @@ color: #fff;
   color: #fff;
 } 
 
+/*-------- to overwrite Bootstrap ---------- */
+   .text-secondary {
+    color: #F1B484!important;
+}
+
+.text-dark {
+    color: #2c0f07!important;
+}
 
