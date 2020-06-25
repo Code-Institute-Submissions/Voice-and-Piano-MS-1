@@ -315,3 +315,73 @@ background-size:cover;
  background-attachment: fixed;
 }
 
+/*-------------- Pricing tables ---*/
+
+.pricing {
+  background-color:#FFF;
+}
+
+.pricing-table {
+  max-width: 1200px;
+  margin:auto;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-wrap: wrap;
+  color:#FFF;
+   margin-top: 40px;
+   margin-bottom: 50px;
+}
+
+.col {
+  flex: 25%;
+  padding: 10px;
+  max-width: 320px;
+  box-sizing:border-box;
+}
+
+.table {
+  background: url("./images/piano-notes.jpg");
+ background-size: cover;
+  position: relative;
+  overflow: hidden;
+}
+.table h3 {
+  color:#FFF;
+}
+.table p{
+    font-size: 2.7rem;
+    font-weight: 400;
+    color:#A53126;
+}
+.table ul {
+  margin: 0;
+  padding: 0;
+}
+.table ul li {
+  padding: 10px 0;
+  list-style: none;
+  color:#FFF;
+}
+.price {
+  font-size: 30px;
+  margin-bottom: 15px;
+  color:#FFF;
+}
+.table a{
+  text-decoration: none;
+  background-color:#CB4A2E;
+  color: #fff;
+  border: 1px solid #754737;
+  display: block;
+  padding: 10px 0;
+  margin: 10px 0;
+  border-radius: 30px;
+  font-size: 14px;
+  transition: 0.5s linear;
+}
+.table a:hover {
+background:#F1B484;
+color: #fff;
+}
+
