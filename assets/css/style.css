@@ -241,6 +241,16 @@ font-size:1.6rem;
     background-color: #CB4A2E;
 }
 
+ /* Background wil be fix only on desktop size */
+    .bg-fixed {
+        background-attachment: fixed;
+    }
+    /* opening hours*/
+    .oh-list {
+        max-width: 100%;
+    }
+
+
 /*----------- Header image About/Classes/Contact page ---------*/
 
 .header_image_about{
@@ -390,15 +400,33 @@ background:#F1B484;
 color: #fff;
 }
     
+/*------------ Classes info-CLASSES PAGE -----*/
+ .classes{
+            padding-top: 3rem;
+            padding-bottom: 1rem;
+        }
+.classes .jumbotron {
+        text-align: center;
+        background-color: #F1B484;
+         padding: 3rem 1rem;
+        margin-bottom:1rem;
+        }
+   .classes .jumbotron a {
+  text-decoration: none;
+  background-color:#CB4A2E;
+  color: #fff;
+  display: inline-block;
+  border: 1px solid #7C675C;
+  padding: 15px 30px;
+  margin: 15px 10px;
+  border-radius: 20px;
+  text-transform: uppercase;
+  font-size: 15px;
+  transition: 0.5s linear;
+}    
+.jumbotron a:hover {
+      background:#754737;
+  color: #fff;
+} 
 
- /* Fix background only on desktop */====+la final++++++++++++++
-    .bg-fixed {
-        background-attachment: fixed;
-    }
-    /* opening hours*/
-    .oh-list {
-        max-width: 100%;
-    }
 
-
-.
