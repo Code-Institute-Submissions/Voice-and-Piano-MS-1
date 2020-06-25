@@ -389,4 +389,16 @@ background-size:cover;
 background:#F1B484;
 color: #fff;
 }
+    
 
+ /* Fix background only on desktop */====+la final++++++++++++++
+    .bg-fixed {
+        background-attachment: fixed;
+    }
+    /* opening hours*/
+    .oh-list {
+        max-width: 100%;
+    }
+
+
+.
