@@ -1,21 +1,21 @@
-@import url('https://fonts.googleapis.com/css2?family=Kavivanar&family=Montserrat:wght@100;200;300;400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kavivanar&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,400;1,500;1,700&display=swap');
 
 html  {
 scroll-behavior: smooth;
-margin: 0;
-padding: 0;
 }
 
 body {
+margin: 0;
+padding: 0;
 overflow-x:hidden;
-font-family: 'Montserrat', sans-serif;
-font-family: 'Kavivanar', cursive;
+font-family:'Roboto', sans-serif;
 color:#404040;
-    }
+}
+
     /* Headings */
 
-h1, h2, h3, h4,h5, h6 {
-    font-family: 'Kavivanar', cursive;
+h1, h2, h3, h4,h5,h6 {
+    font-family:'Kavivanar', cursive;
     letter-spacing: 2px;
     color:#A53126;
     font-weight: 600;
@@ -47,9 +47,10 @@ padding-right: .7rem;
 }
 
 .navbar-dark .navbar-nav .nav-link {
-color:#fff;
+color: #FFF;
 padding-top:.8rem;
 }
+
 .navbar-dark .navbar-nav .nav-link.active,
 .navbar-dark .navbar-nav .nav-link:hover {
  color: #A53126;
@@ -72,7 +73,7 @@ padding-top:.8rem;
     font-weight: 300;
     line-height: 1;
     display: inline-block;
-    font-family:'kavivanar',serif;
+    font-family:'kavivanar',sans-serif;
     align-items: center;
     text-align: center;
     letter-spacing: 0.1em;
@@ -82,7 +83,7 @@ padding-top:.8rem;
 /*-- Landing Page---*/
 
 .home-inner {
-    background-image:url("./images/banner-image.jpg");
+background-image:url("../images/banner-image.jpg");
 }
 .caption {
 width:100%;
@@ -256,17 +257,17 @@ font-size:1.6rem;
 .header_image_about{
     height:600px;
     width: 100%;
-    background: url("./images/header-img-about.jpg") no-repeat center center;
+    background: url("../images/header-img-about.jpg") no-repeat center center;
 }
 .header_image_classes{
     height:600px;
     width: 100%;
-    background: url("./images/header-img-classes.jpg") no-repeat center center;
+    background: url("../images/header-img-classes.jpg") no-repeat center center;
 }
 .header_image_contact{
     height:600px;
     width: 100%;
-    background: url("./images/header-img-contact.jpg") no-repeat center center;
+    background: url("../images/header-img-contact.jpg") no-repeat center center;
 }
 
 
@@ -325,7 +326,7 @@ box-shadow:5px 5px 10px #754737;
 /*--- Testimonials ---*/
 
 .testimonials {
-background:url("./images/testimonials-mike.jpg") no-repeat center center;
+background:url("../images/testimonials-mike.jpg") no-repeat center center;
 background-size:cover;
  background-attachment: fixed;
 }
@@ -356,7 +357,7 @@ background-size:cover;
 }
 
 .table {
-  background: url("./images/piano-notes.jpg");
+  background: url("../images/piano-notes.jpg");
  background-size: cover;
   position: relative;
   overflow: hidden;
@@ -408,7 +409,7 @@ color: #fff;
 .classes .jumbotron {
         text-align: center;
         background-color: #F1B484;
-         padding: 3rem 1rem;
+        padding: 3rem 1rem;
         margin-bottom:1rem;
         }
    .classes .jumbotron a {
@@ -425,7 +426,7 @@ color: #fff;
   transition: 0.5s linear;
 }    
 .jumbotron a:hover {
-      background:#754737;
+ background:#754737;
   color: #fff;
 } 
 
