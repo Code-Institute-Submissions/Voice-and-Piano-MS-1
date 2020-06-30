@@ -439,3 +439,17 @@ color: #2c0f07!important;
 .bg-light-grey {
     background:#F9DBC0;
 }
+.btn-secondary{
+    background: #CB4A2E!important;
+    color: #fff;
+    border-radius: 20px!important;
+    text-transform: uppercase;
+      padding: 15px 30px;
+  margin: 15px 10px;
+
+}
+.btn-secondary:hover {
+    color: #fff;
+    background-color: #754737!important;
+}
+
