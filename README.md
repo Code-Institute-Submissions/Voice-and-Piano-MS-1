@@ -31,7 +31,7 @@ In the 'Work/Travail' section, I wanted them to be able to quickly access work t
 
 
 ### Surface
-I created a moodboard with Adobe Spark from research of colours, styles and components to visually illustrate the style I wished to pursue. You can see that moodboard here.(design/moodboard.voiceandpiano.pdf)
+I created a moodboard with Adobe Spark from research of colours, styles and components to visually illustrate the style I wished to pursue. You can see that moodboard [here].(design/moodboard.voiceandpiano.pdf)
 
 As a starting point I used the image chosen for my landing page which helped to choose the color pallete for the entire website.
 In my colour scheme obtained by [https://coolors.co/].
@@ -44,24 +44,37 @@ I decided on this combination because, according to this article [https://99desi
 
 Typography
 
-Montserrat, this charming sans serif font is a modern classic font and it's perfect for modern website.In the same time, it adapts itself to many different personalities.
 
 ## Features
 
-Each page features a responsive navigation bar with conventional placing of logo (top left). Each page has a footer with copyright information and social media icons linking to music school social media pages.
+Each page features a responsive navigation bar with conventional placing of logo and brand name (top left).
+The Navigation is made to be fixed at the top so users can jump to any section with the click on the icons. 
+Each page has a footer with information about school, opening hours, contact details and social media icons linking to music school social media pages. 
+At the bottom of each page there is a copyright information.
 
-- Home page
-There is a simple call to action button helping the user to book a free class.
-- About page
+1. Home page:
+ + The Home page features a full screen hero image, a banner text and call to action button for booking the first free class by having it fill out the contact form on the contact page. The button links to the contact form;
+ + Three reasons to choose this music school;
+ + Types of classes 
+ + The benefits of learning piano music - the user can find some details about big advantages of learning piano
+ + Testimonials -  the user can view some details  from  previous students experiences. 
 
-- Classes page
+2. About page:
+ + The mission of the school- details about school;
+ + Three reasons to choose this music school 
+ + The teachers - allows users to view the teachers and find their qualifications;
+ + A Gallery from the last event organised for children - the Gallery section is laid out in columns of cards images, 1 column wide for mobile devices, 2 columns wide for tablets and 3 columns wide for desktop;
 
-- Contact page
+3. Classes page:
+ + The types of classes 
+ + Pricing Packages feature four tables - the tables are displayed next to each other on desktop and tablet, and stacked two top of other two for mobiles.
 
+
+4. Contact page:
 
 ### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
+- 
+- 
 
 For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
 
@@ -75,24 +88,24 @@ In addition, you may also use this section to discuss plans for additional featu
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
 * HTML5
-+ used for the structure of the website.
+ + used for the structure of the website.
 * CSS3
-+ used to style the website.
-*GitHub
-+ used to create repository and to host the repository.
-+ used for version control.
+ + used to style the website.
+* GitHub
+ + used to create repository and to host the repository.
+ + used for version control.
 * Gitpod
-+ used as my IDE to develop the project
+ + used as my IDE to develop the project
 * Bootstrap
-+ to easily adapt the website to be responsive for all users
+ + to easily adapt the website to be responsive for all users
 * Google Fonts
-+ Fonts used:
-- Montserrat 
-- Kavivanar - for headings
+* Fonts used:
+ + Roboto
+ + Kavivanar - for headings
 * Font Awesome
-+ All Icons were taken from the Font Awesome database.
+ + All Icons were taken from the Font Awesome database.
 * JQuery 
-+ to simplify DOM manipulation.
+ + to simplify DOM manipulation.
 
 
 
