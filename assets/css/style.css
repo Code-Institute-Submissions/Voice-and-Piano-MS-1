@@ -18,7 +18,7 @@ h1, h2, h3, h4,h5,h6 {
     font-family:'Kavivanar', cursive;
     letter-spacing: 2px;
     color:#A53126;
-    font-weight: 600;
+    font-weight: 400;
     text-transform: uppercase;
 }
 img {
@@ -426,16 +426,16 @@ color: #fff;
   transition: 0.5s linear;
 }    
 .jumbotron a:hover {
- background:#754737;
-  color: #fff;
+background:#754737;
+color: #fff;
 } 
 
 /*-------- to overwrite Bootstrap ---------- */
-   .text-secondary {
-    color: #F1B484!important;
+.text-secondary {
+color: #F1B484!important;
 }
 
 .text-dark {
-    color: #2c0f07!important;
+color: #2c0f07!important;
 }
 
