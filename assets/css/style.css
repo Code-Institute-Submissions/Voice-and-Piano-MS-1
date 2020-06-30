@@ -272,10 +272,6 @@ font-size:1.6rem;
     background: url("../images/header-img-contact.jpg") no-repeat center center;
 }
 
-
-.lead {
-    font-weight: 600;
-}
 /*----------Teachers section--------------*/
 
 #teachers img{
@@ -439,4 +435,7 @@ color: #F1B484!important;
 
 .text-dark {
 color: #2c0f07!important;
+}
+.bg-light-grey {
+    background:#F9DBC0;
 }
