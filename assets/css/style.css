@@ -428,6 +428,14 @@ background:#754737;
 color: #fff;
 } 
 
+/* ---------------- Contact ----------*/
+.contact-card-icon{
+    color: #CB4A2E;
+}
+.contact-card-details {
+    color:#404040;
+}
+
 /*-------- to overwrite Bootstrap ---------- */
 .text-secondary {
 color: #F1B484!important;
