@@ -439,6 +439,49 @@ iframe.location-map {
     width: 100%;
     border: none;
 }
+/* -------------------- Forms ----------*/
+
+.form-group {
+    position: relative;
+    margin-bottom: 1.5rem;
+}
+.form-control,
+select.form-control {
+    height: calc(2em + .75rem + 2px);
+}
+.form-control:not(select) {
+    padding: 1.2rem .75rem .35rem;
+}
+.form-control-placeholder {
+    background:#fff;
+    position: absolute;
+    top: 10px;
+    left: 12px;
+    padding: 0;
+    -webkit-transition: all 200ms;
+    -o-transition: all 200ms;
+    transition: all 200ms;
+    opacity: 0.5;
+}
+.form-control:focus {
+    border-color:  #A53126;
+    -webkit-box-shadow: 0 0 0 0.1rem rgba(117, 71, 55, .25);
+            box-shadow: 0 0 0 0.1rem rgba(117, 71, 55, .25);
+}
+.form-control:focus + .form-control-placeholder,
+.form-control:valid + .form-control-placeholder {
+    font-size: 76%;
+    -webkit-transform: translate3d(0, -50%, 0);
+            transform: translate3d(0, -50%, 0);
+    opacity: 1;
+}
+.legend {
+    font-size: 22px;
+}
+textarea#message {
+    height: 9rem;
+}
+
 
 
 /*-------- to overwrite Bootstrap ---------- */
