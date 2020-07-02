@@ -112,6 +112,7 @@ font-size:1.6rem;
  text-transform:uppercase;
 }
 
+
 .landing {
   position: relative;
   width: 100%;
@@ -545,6 +546,23 @@ color: #2c0f07!important;
 .bg-light-grey {
     background:#F9DBC0;
 }
+
+/* Buttons */
+.btn-outline-light{
+    border-width: large;
+    padding:.6rem 0.3rem;
+    font-size:1.1rem;
+    border-radius:25px!important;
+    text-transform: uppercase;
+    background: #A53126!important;
+}
+
+.btn-outline-light:hover,
+ .btn-outline-light:focus{
+  background-color: #F1B484!important;
+  color: #fff;
+}
+
 .btn-secondary{
     background: #CB4A2E!important;
     color: #fff;
@@ -560,6 +578,7 @@ color: #2c0f07!important;
 }
 
 /*-------------- MEDIA SIZES -------*/
+
    /*Pricing tables col*/
 @media screen and (max-width: 980px) {
   .col {
