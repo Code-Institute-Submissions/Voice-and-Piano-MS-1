@@ -2,15 +2,19 @@
 
 html  {
 scroll-behavior: smooth;
+font-family:'Roboto', sans-serif;
+color:#404040; 
+
 }
 
 body {
 margin: 0;
-padding: 0;
-overflow-x:hidden;
 font-family:'Roboto', sans-serif;
 color:#404040;
+background-color:#fff;
 font-weight: 400;
+line-height:  1.5;
+text-align: left;
 }
 
     /* Headings */
@@ -19,13 +23,15 @@ h1, h2, h3, h4,h5,h6 {
     font-family:'Kavivanar', cursive;
     letter-spacing: 2px;
     color:#A53126;
-    font-style: bold;
     text-transform: uppercase;
+    margin-top: 0;
+    font-weight: 500;
 }
 img {
 	max-width: 100%;
 	height: auto;
 }
+/* Links */
 a {
     color:#F1B484;
 }
@@ -98,7 +104,7 @@ color:#FFF;
 .caption h1{
 font-size:2.5rem;
 font-weight: bold;
-letter-spacing:.1rem;
+letter-spacing:.2rem;
 padding-bottom:.7rem;
 text-transform:uppercase;
 color:#FFF;
@@ -250,11 +256,6 @@ margin-right: 0px!important;
 
 }
 /* ------------ Icons ------- */
-
-.note-icon {
-    width: 34px;
-}
-/* ---- FA Icons ----*/
 .opening-hours .fas {
     float: left;
 }
@@ -294,10 +295,6 @@ margin-right: 0px!important;
     background-color: #CB4A2E;
 }
 
- /* Background wil be fix only on desktop size */
-    .bg-fixed {
-        background-attachment: fixed;
-    }
     /* opening hours*/
     .oh-list {
         max-width: 100%;
@@ -341,6 +338,7 @@ margin-top: -50px;
     font-size:19px;
 }
 #teachers.card {
+    word-wrap:normal;
     border-radius: 0;
     background: #A53126;
     box-shadow:5px 5px 15px #F1B484;
@@ -577,19 +575,18 @@ color: #2c0f07!important;
 }
 
 /*-------------- MEDIA SIZES -------*/
-/*landing page*/
-@media screen and (max-width: 767px) {
+/*Small devices (phones)*/
+
+@media screen and (max-width: 768px) {
+    /*Landing page*/
 .caption h1{
 font-size:1.8rem;
 letter-spacing:.15rem;
 padding-bottom:.4rem;
-text-transform:uppercase;
-color:#FFF;
 }
 
 .caption h2{
 font-size:1.5rem;
- color: #FFF;
  padding-bottom:.9rem;
  text-transform:uppercase;
 }
@@ -599,6 +596,30 @@ font-size:1.5rem;
     text-transform: uppercase;
     background: #A53126!important;
 }
+}
+/* Medium devices (tablets, 768px and up) */
+@media screen and (min-width: 768px) {
+    /* Headings */
+    h2{
+        font-size: 1.7rem;
+    }
+    h3{
+        font-size: 1.5rem;
+    }
+    h4{
+        font-size: 1.2rem;
+    }
+    /* Nav Brand*/
+    .navbar {
+        padding-right: .5rem;
+ }
+.navbar-nav li { 
+padding-right: .5rem;
+}
+#teachers .card-body{
+    padding: 0.9rem;
+}
+
 /* Testimonials */
     .carousel .carousel-inner {
         margin-left: auto;
@@ -607,15 +628,16 @@ font-size:1.5rem;
 }
 
    /*Pricing tables col*/
-@media screen and (max-width: 980px) {
+@media screen and (max-width: 992px) {
   .col {
     flex: 50%;
   }
 }
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 768px) {
   .col {
     flex: 100%;
   }
 }
+
 
 
