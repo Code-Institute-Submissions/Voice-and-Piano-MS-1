@@ -320,13 +320,13 @@ height: 600px;
 }
 
 .hero-image-about{
-   background-image: url("../images/header-img-about.jpg");
+   background-image: url("../images/hero-img-about.jpg");
 }
 .hero-image-classes{
-    background-image: url("../images/header-img-classes.jpg") ;
+    background-image: url("../images/hero-img-classes.jpg") ;
 }
 .hero-image-contact{
-    background-image: url("../images/header-img-contact.jpg");
+    background-image: url("../images/hero-img-contact.jpg");
 }
 
 /*----------Teachers section--------------*/
