@@ -302,7 +302,7 @@ margin-right: 0px!important;
 /*----------- Hero Image About/Classes/Contact page ---------*/
 
 .hero-image {
-height: 600px;
+height: 750px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -314,7 +314,7 @@ height: 600px;
   top: 80%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: #F1B484;
+  color:  #CB4A2E;
   font-weight:bold;
   letter-spacing: 0.5rem;
 }
@@ -323,7 +323,7 @@ height: 600px;
    background-image: url("../images/hero-img-about.jpg");
 }
 .hero-image-classes{
-    background-image: url("../images/hero-img-classes.jpg") ;
+    background-image: url("../images/hero-img-classesrs.jpg") ;
 }
 .hero-image-contact{
     background-image: url("../images/hero-img-contact.jpg");
@@ -512,6 +512,7 @@ select.form-control {
 }
 .form-control-placeholder {
     background:#fff;
+     border-radius: 2em;
     position: absolute;
     top: 10px;
     left: 12px;
