@@ -633,7 +633,9 @@ padding-right: .5rem;
 #teachers .card-body{
     padding: 0.9rem;
 }
-
+#music-classes .card-body{
+    padding: 1.1rem!important;
+}
 }
 /* Testimonials */
     .carousel .carousel-inner {
