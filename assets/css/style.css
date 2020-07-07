@@ -560,7 +560,6 @@ color: #2c0f07!important;
 
 /* Buttons */
 .btn-outline-light{
-    border-width: large;
     padding:.6rem 0.3rem;
     font-size:1.1rem;
     border-radius:25px!important;
@@ -653,14 +652,12 @@ padding-right: .5rem;
 #music-classes .card-body{
     padding: 1.1rem!important;
 }
-}
 /* Testimonials */
     .carousel .carousel-inner {
         margin-left: auto;
         margin-right: auto;
     }
 }
-
 @media screen and (max-width: 900px) {
   .col {
     flex: 50%;
