@@ -453,6 +453,7 @@ background-size:cover;
   border-radius: 30px;
   font-size: 14px;
   transition: 0.5s linear;
+  text-transform:uppercase;
 }
 .table a:hover {
 background:#F1B484;
@@ -587,8 +588,8 @@ color: #2c0f07!important;
     background-color: #754737!important;
 }
 
-/*-------------- MEDIA SIZES -------*/
-/*Small devices (phones)*/
+/*------------------------------- MEDIA SIZES -----------*/
+/*------------Small devices (phones)*/
 
 @media screen and (max-width: 768px) {
     /*Landing page*/
@@ -609,9 +610,27 @@ font-size:1.5rem;
     text-transform: uppercase;
     background: #A53126!important;
 }
-
+.navbar-brand span {
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1;
+    display: inline-block;
+    font-family:'kavivanar', sans-serif;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.1em;
+    padding-top: .8rem;
+    padding-bottom: .8rem;
 }
-/* Medium devices (tablets, 768px and up) */
+
+   /*Pricing tables col*/
+ .col {
+flex: 100%;
+padding-right: 5px!important;
+padding-left: 5px!important;
+}
+}
+/*----------- Medium devices (tablets) ----- */
 @media screen and (min-width: 768px) {
     /* Headings */
     h2{
@@ -630,9 +649,7 @@ font-size:1.5rem;
 .navbar-nav li { 
 padding-right: .5rem;
 }
-#teachers .card-body{
-    padding: 0.9rem;
-}
+
 #music-classes .card-body{
     padding: 1.1rem!important;
 }
@@ -644,15 +661,9 @@ padding-right: .5rem;
     }
 }
 
-   /*Pricing tables col*/
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 900px) {
   .col {
     flex: 50%;
-  }
-}
-@media screen and (max-width: 768px) {
-  .col {
-    flex: 100%;
   }
 }
 
