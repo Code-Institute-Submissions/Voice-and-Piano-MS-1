@@ -158,13 +158,7 @@ font-size:2.1rem;
 }
 /*--- Extra Bootstrap Column Padding --*/
 [class*="col-"] {
-  padding: 1rem;
-}
-
-/*--- Bootstrap Mobile Gutter Fix --*/
-.row, .container-fluid {
-margin-left: 0px!important;
-margin-right: 0px!important;
+  padding: 0.5rem;
 }
 
 /*--- Fix for Fixed Navbar jumping on scroll --*/
@@ -293,7 +287,7 @@ margin-right: 0px!important;
     height: 50px;
     border-radius: 50%;
     text-align: center;
-    line-height: 40px;
+    line-height: 50px;
     font-size: 24px;
     -webkit-transition: all .2s ease;
     -o-transition: all .2s ease;
@@ -427,7 +421,7 @@ background-size:cover;
    margin-bottom: 50px;
 }
 
-.col {
+.col-pricing {
   -webkit-box-flex: 25%;
       -ms-flex: 25%;
           flex: 25%;
@@ -603,7 +597,7 @@ color: #2c0f07!important;
 .btn-secondary{
     background: #CB4A2E!important;
     color: #fff;
-    border-radius: 20px!important;
+    border-radius: 18px!important;
     text-transform: uppercase;
       padding: 15px 30px;
   margin: 15px 10px;
@@ -652,7 +646,7 @@ font-size:1.5rem;
 }
 
    /*Pricing tables col*/
- .col {
+.col{
 -webkit-box-flex: 100%;
     -ms-flex: 100%;
         flex: 100%;
