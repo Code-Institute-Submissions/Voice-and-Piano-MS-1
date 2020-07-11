@@ -31,7 +31,7 @@ h1, h2, h3, h4,h5,h6 {
     color:#A53126;
     text-transform: uppercase;
     margin-top: 0;
-    font-weight: 500;
+    font-weight: 800;
 }
 img {
 	max-width: 100%;
@@ -347,7 +347,6 @@ margin-top: -50px;
 }
 #teachers i{
     color:#F1B484;
-
 }
 #teachers p{
     font-weight:400;
@@ -356,10 +355,8 @@ margin-top: -50px;
 }
 #teachers h5{
     padding: 5px;
-    font-size:19px;
 }
 #teachers.card {
-    word-wrap:normal;
     border-radius: 0;
     background: #A53126;
     -webkit-box-shadow:5px 5px 15px #F1B484;
@@ -391,6 +388,9 @@ color:#fff;
   height: 70%;
   width: 60%;
   padding-bottom: 20px;
+}
+#music-classes .card-text{
+    height:70px;
 }
 
 /*--- Testimonials ---*/
@@ -492,6 +492,7 @@ color: #fff;
         background-color: #F1B484;
         padding: 3rem 1rem;
         margin-bottom:1rem;
+        border-radius: 19px;
         }
    .classes .jumbotron a {
   text-decoration: none;
@@ -584,9 +585,9 @@ color: #2c0f07!important;
 
 /* Buttons */
 .btn-outline-light{
-    padding:.6rem 0.3rem;
-    font-size:1.1rem;
-    border-radius:25px!important;
+     padding: .8rem 0.9rem;
+    font-size: 1.1rem;
+    border-radius: 22px!important;
     text-transform: uppercase;
     background: #A53126!important;
 }
@@ -598,13 +599,13 @@ color: #2c0f07!important;
 }
 
 .btn-secondary{
-    background: #CB4A2E!important;
+      background: #CB4A2E!important;
     color: #fff;
-    border-radius: 18px!important;
-    font-size:17px!important;
+    border-radius: 22px!important;
+    font-size: 15px!important;
     text-transform: uppercase;
-      padding: 15px 30px;
-  margin: 15px 10px;
+    padding: 10px 25px;
+    margin: 15px 10px;
 
 }
 .btn-secondary:hover {
@@ -616,6 +617,17 @@ color: #2c0f07!important;
 /*------------Small devices (phones)*/
 
 @media screen and (max-width: 768px) {
+
+     /* Headings */
+    h2{
+        font-size: 1.5rem;
+    }
+    h3{
+        font-size: 1.1rem;
+    }
+    h4{
+        font-size: 0.9rem;
+    }
     /*Landing page*/
 .caption h1{
 font-size:1.8rem;
@@ -629,8 +641,8 @@ font-size:1.5rem;
  text-transform:uppercase;
 }
 .btn-outline-light{
-    padding:.5rem 1rem;
-    font-size:1rem;
+    padding:.4rem 1rem;
+    font-size:0.8rem;
     text-transform: uppercase;
     background: #A53126!important;
 }
@@ -649,6 +661,7 @@ font-size:1.5rem;
     padding-bottom: .8rem;
 }
 
+
    /*Pricing tables col*/
 .col{
 -webkit-box-flex: 100%;
@@ -665,10 +678,10 @@ padding-left: 5px!important;
         font-size: 1.7rem;
     }
     h3{
-        font-size: 1.5rem;
+        font-size: 1.3rem;
     }
     h4{
-        font-size: 1.2rem;
+        font-size: 1.1rem;
     }
     /* Nav Brand*/
     .navbar {
@@ -678,8 +691,8 @@ padding-left: 5px!important;
 padding-right: .5rem;
 }
 
-#music-classes .card-body{
-    padding: 1.1rem!important;
+#teachers .card{
+height: 560px;
 }
 /* Testimonials */
     .carousel .carousel-inner {
@@ -687,6 +700,7 @@ padding-right: .5rem;
         margin-right: auto;
     }
 }
+
 @media screen and (max-width: 900px) {
   .col {
     -webkit-box-flex: 50%;
