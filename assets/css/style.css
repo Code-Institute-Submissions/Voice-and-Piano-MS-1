@@ -229,7 +229,7 @@ margin-right: 0px!important;
     padding: 15px 15px;
 }
 .full-width-copyright {
-    padding: 15px 0;
+    padding: 5px 0;
     background: #7C675C;
     color: #fff;
     font-size: 12px;
@@ -397,12 +397,12 @@ color:#fff;
 /*----------- Music Classes images ----*/
 
 #music-classes .img{
-  height: 70%;
+  height: 50%;
   width: 60%;
-  padding-bottom: 20px;
+  padding-bottom: 10px;
 }
 #music-classes .card-text{
-    height:70px;
+    height:60px;
 }
 
 /*--- Testimonials ---*/
@@ -502,7 +502,7 @@ color: #fff;
 .classes .jumbotron {
         text-align: center;
         background-color: #F1B484;
-        padding: 3rem 1rem;
+        padding: 1.5rem 1rem;
         margin-bottom:1rem;
         border-radius: 19px;
         }
