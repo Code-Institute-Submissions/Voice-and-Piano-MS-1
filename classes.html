@@ -220,7 +220,8 @@
                                 <li>Music Theory</li>
                                 <li><strong>Saturday</strong> and <strong>Sunday</strong></li>
                             </ul>
-                            <a href="contact.html">Sign up</a>
+                           <button class ="btn btn-lg btn-secondary" data-toggle="modal"
+                       data-target="#signupmodal4">Sign up</button>
                         </div>
                     </div>
                 </div>
@@ -469,7 +470,7 @@
 		<div class="modal-dialog">
 			<div class="modal-content">
 				<div class="modal-header">
-					<h5 class="modal-title">Sign up to Standard Package</h5>
+					<h5 class="modal-title">Sign up to Premium Package</h5>
 					<button
               type="button"
               class="close"
@@ -540,7 +541,83 @@
 		</div>
 	</div>
 	<!--  End of modal sign-up form Premium  -->
-    
+
+      <!-- Start of modal sign up form Pro -->
+	<div class="modal" tabindex="-1" role="dialog" id="signupmodal4">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h5 class="modal-title">Sign up to Pro Package</h5>
+					<button
+              type="button"
+              class="close"
+              data-dismiss="modal"
+              aria-label="Close"
+            >
+              <span aria-hidden="true">&times;</span>
+            </button>
+				</div>
+				<div class="modal-body">
+					<form>
+						<div class="form-group">
+							<div class="row">
+								<div class="col-6">
+									<label for="forename">First Name</label>
+									<input
+                      type="text"
+                      class="form-control"
+                      placeholder="First name"
+                      id="forename4"
+                    />
+                  </div>
+									<div class="col-6">
+										<label for="surname">Surname</label>
+										<input
+                      type="text"
+                      class="form-control"
+                      placeholder="Last name"
+                      id="surname4"
+                    />
+                  </div>
+									</div>
+								</div>
+								<div class="form-group">
+									<div class="row">
+										<div class="col-12">
+											<label for="exampleInputEmail1">Email address</label>
+											<input type="email"
+                  class="form-control"
+                  id="exampleInputEmail4"
+                  placeholder="voiceandpiano@gmail.com"
+                  aria-describedby="emailHelp"/>
+										</div>
+									</div>
+								</div>
+								<div class="form-group">
+									<div class="row">
+										<div class="col-12">
+											<label for="Package">Package</label>
+											<select class="form-control" id="Package4">
+                  <option>basic - €55</option>
+                  <option >Standard - €100</option>
+                  <option >Premium - €65</option>
+                  <option selected> Pro - €110 </option>
+                </select>
+										</div>
+									</div>
+								</div>
+
+										<div class="row">
+											<div class="col-12 text-center">
+												<button type="button" class="btn btn-lg btn-secondary" data-toggle="modal" data-target="#signuppackage4">Send</button>
+											</div>
+										</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--  End of modal sign-up form Pro -->
 
 
         <!-- SCRIPTS -->
