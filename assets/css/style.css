@@ -641,6 +641,7 @@ color: #2c0f07!important;
     h4{
         font-size: 0.9rem;
     }
+
     /*Landing page*/
 .caption h1{
 font-size:1.8rem;
@@ -673,6 +674,7 @@ font-size:1.5rem;
     padding-top: .8rem;
     padding-bottom: .8rem;
 }
+
 @media screen and (max-width: 700px) {
   .col {
     flex: 100%;
@@ -688,6 +690,7 @@ padding-right: 5px!important;
 padding-left: 5px!important;
 }
 }
+
 /*----------- Medium devices (tablets) ----- */
 @media screen and (min-width: 768px) {
     /* Headings */
