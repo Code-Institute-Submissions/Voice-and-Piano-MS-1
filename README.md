@@ -1,9 +1,13 @@
 
-![# Milestone 1 - Voice and Piano Music School](design/mockup-Voice-and-piano.JPG)
+# Milestone 1 - Voice and Piano Music School
+
+
+[# Milestone 1 - Voice and Piano Music School](design/mockup-Voice-and-piano.JPG)
 
 This website was created for the first milestone project of Full Stack Developer Course. The project made is a small website for a Music School. 
 This website has been built for a good friend, teacher and founder of the Voice and Piano Music School.
 The purpose of this project is to create a new modern website, more attractive and functional for her school, which has already an existing own website (https://vocepian.wordpress.com/). 
+
 [Click here to view the project live](https://luizagit.github.io/Voice-and-Piano-MS-1/)
 
 # Table of contents:
