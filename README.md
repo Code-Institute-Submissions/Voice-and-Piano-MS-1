@@ -2,7 +2,7 @@
 # Milestone 1 - Voice and Piano Music School
 
 
-![# Milestone 1 - Voice and Piano Music School](design/mockup-Voice-and-piano.JPG)
+![# Milestone 1 - Voice and Piano Music School](design/mockupMS-1.JPG)
 
 This website was created for the first milestone project of Full Stack Developer Course. The project made is a small website for a Music School. 
 This website has been built for a good friend, teacher and founder of the Voice and Piano Music School.
@@ -16,7 +16,7 @@ The purpose of this project is to create a new modern website, more attractive a
  - **[UX](UX)**
     -  **[User stories](#userstories)**
        - [New Users](#new-users)
-       - [Business Owner](#[business-owner)
+       - [Business Owner](#business-owner)
     -  **[Strategy](#strategy)**
     -  **[Scope](#scope-plane)**
     -  **[Skeleton](#skeleton)**
@@ -51,18 +51,18 @@ The main purpose of the website would be to get people to interest in taking the
 
 ##### Business Owner:
 
-* I am one of the owners of the school and want to see the school succeed. I want to clearly display information about upcoming classes in an attractive and informative way, and I want visitors to be able to easily able to contact the school easily.
+* As a owner of the school and want to see the school succeed. I want to clearly display information about upcoming classes in an attractive and informative way, and I want visitors to be able to easily able to contact the school easily.
 
 ### Strategy 
 I created a moodboard with Adobe Spark (https://spark.adobe.com/)from the research of colors, styles and components to visually illustrate the style I wished to pursue. 
 You can see that moodboard [here](design/moodboard.voiceandpiano.pdf)
 The following websites were used in the research process for reference and inspiration:
-* (https://solfeggio.cmsmasters.net/contacts/)
-* (https://www.vivaldimusicacademy.com/)
-* (https://www.playrightmusicltd.com/Piano-Lessons-Dublin/)
-* (http://dublinschoolofmusic.ie/)
-* (https://www.pianosplus.com/blog/piano-news/health-benefits-piano-playing/)
-* (https://www.awwwards.com/)
+* https://solfeggio.cmsmasters.net/contacts/
+* https://www.vivaldimusicacademy.com/
+* https://www.playrightmusicltd.com/Piano-Lessons-Dublin/
+* http://dublinschoolofmusic.ie/
+* https://www.pianosplus.com/blog/piano-news/health-benefits-piano-playing/
+* https://www.awwwards.com/
 
 There are 2 main goals of the website:
 
@@ -86,25 +86,45 @@ The key features of the website were developed based on user needs. Users should
  
 #### Skeleton
  I have included some basic sketching of ideas:
+ 
+ **Initial ideas**
+ 
+- These are initial ideas for the structure of information and pages required, and sketching them down for desktop and mobile on paper as it is quicker.
+ - Home Page Desktop version [Here](sketch-wireframes-first_ideas/home-page-desktop-version.jpg)
+ - Home Page Mobile version [Here](sketch-wireframes-first_ideas/home-page-mobile-version.jpg)
+ - About Page Desktop version [Here](sketch-wireframes-first_ideas/about-page-desktop-version.jpg)
+ - About Page Mobile version [Here](sketch-wireframes-first_ideas/about-page-mobile-version.jpg)
+ - Classes Page Desktop version [Here](sketch-wireframes-first_ideas/classes-page-desktop-version.jpg)
+ - Classes Page Mobile version [Here](sketch-wireframes-first_ideas/classes-page-mobile-version.jpg)
+ - Contact Page Desktop and Mobile version[Here](sketch-wireframes-first_ideas/contact-page-desktop-and-mobile.jpg)
+ - Structure site [Here](sketch-wireframes-first_ideas/structure-site.jpg)
 
-**Initial ideas**
-These are initial ideas for the structure of information and pages required, and sketching them down for desktop and mobile  on paper as it is quicker.
-[Here](sketch-wireframes-first_ideas)
+
+
 **Second ideas**
-this formed the basis of my final wireframes, which were created in Figma
-[Here](Wireframes-second_ideas)
-**Final wireframes**
-[Here](/Wireframes-second\_ideas/Wireframes-final\_ideas/about-page.jpg)
+- This formed the basis of my final wireframes, which were created in Figma:
+ - Home page [Here](Wireframes-second_ideas/voice-and-piano.home-page.jpg.gz)
+ - About Page [Here](Wireframes-second_ideas/voice-and-piano.about-page.jpg.gz)
+ - Classes Page[Here](Wireframes-second_ideas/voice-and-piano.Classes-page.jpg.gz)
+ - Contact Page [Here](Wireframes-second_ideas/voice-and-piano.contact-page.jpg.gz)
+
+ **Final wireframes** created in Figma
+ - Home page [Here](Wireframes-second_ideas/Wireframes-final_ideas/home-pg.png)
+ - About Page [Here](Wireframes-second_ideas/Wireframes-final_ideas/about-pg.jpg)
+ - Classes page [Here](Wireframes-second_ideas/Wireframes-final_ideas/classes-pg.jpg)
+ - Contact page [Here](Wireframes-second_ideas/Wireframes-final_ideas/contact-pg.jpg)
 
 #### Surface
 
 As a starting point I used the image chosen for my landing page which helped to choose the color pallete for the entire website.
 Below is a picture of the color palette I got off the website Coolors [https://coolors.co/]
+
 ![color-scheme](design/color-scheme.png)
+
  I used a combination of red, brown and pastel color like peach. 
 I decided on this combination because, according to this article [https://99designs.ie/blog/tips/how-color-impacts-emotions-and-behaviors/]:
-* Red can also increase a person’s appetite and can develop a passion for something, in this case would be learning apetite;
-* Pastel colors like peach can also have an uplifting effect on your mood;
+* Red can also increase a person’s appetite and can develop a passion for something, in this case would be learning apetite.
+* Pastel color like peach can also have an uplifting effect on your mood.
 * Brown makes you feel down to earth and creates a sense of stability and support. It’s warm and friendly, practical and dependable, and can also represent the old fashioned and well established.
 
 **Typography**
@@ -119,11 +139,11 @@ I decided on this combination because, according to this article [https://99desi
 ## Features
 
 ### Existing features 
-+  The project consists of 4 different pages which can be accessed through the menu in the navbar. All features are responsive on all device sizes.
-+  Header Logo - on every page. Acts as a navigation link back to the user's home page.
++ The project consists of 4 different pages which can be accessed through the menu in the navbar. All features are responsive on all device sizes.
++ Header Logo - on every page. Acts as a navigation link back to the user's home page.
 + Each page features a responsive navigation bar with conventional placing of logo and brand name (top left).
 + The navigation is made to be fixed at the top so users can jump to any section with the click on the navlinks. Each section details relevant information required to convince users to join music school. The full navigation menu shrinks down to a small menu with a hamburger dropdown menu when on smaller devices i.e phones.
-+  Modals - used throughout the site to allow actions to be taken without navigating the user away from the necessary page. In order to help the users to join music school, the webiste provides a sign up form on Pricing packages as well as information convincing the users that Voice and Piano Music School is a great option for people who want to learn or improve music skills.
++ Modals - used throughout the site to allow actions to be taken without navigating the user away from the necessary page. In order to help the users to join music school, the webiste provides a sign up form on Pricing packages as well as information convincing the users that Voice and Piano Music School is a great option for people who want to learn or improve music skills.
 + Each page has a footer with information about school, opening hours, contact details and social media links when clicked on, opens out a new tab to the company’s respective social page e.g. their Youtube page. These links are displayed as icons that were taken from Font Awesome.
 At the bottom of each page there is a copyright information.
 
@@ -146,9 +166,9 @@ At the bottom of each page there is a copyright information.
  + A gallery from the last event organised for children by the Music School- the gallery section is laid out in columns of cards images, 1 column wide for mobile devices, 2 columns wide for tablets and 3 columns wide for desktop.
 
 3.Classes page:
- + The types of classes within jumbotron, at the bottoom of each jumbotron a button which links to the contact form.
+ + The types of classes within jumbotron, at the bottom of each jumbotron a button which links to the contact form.
  + The pricing Packages feature four tables - the tables are displayed next to each other on desktop and tablet, and stacked two top of other two for mobiles and Ipad Pro.
- + At the buttom of each table, there is a button which opens a sign up modal form.
+ + At the bottom of each table, there is a button which opens a sign up modal form.
 
 
 4.Contact page:
@@ -162,7 +182,6 @@ At the bottom of each page there is a copyright information.
 - Add JS to allow for the sign up form to actually be submitted and back-end to allow for user-data to be stored.
 - Video lessons
 - A button for translation into Romanian language, most of the users would be romanians
-
 - A newsletter page could be ideal for users to sign up to and increase the social aspect of the website
 
 ## Technologies Used
@@ -185,11 +204,12 @@ At the bottom of each page there is a copyright information.
 * [Code Beautify CSS beautifier](https://www.freeformatter.com/css-beautifier.html) - used to make my CSS look nicer and tidier
 * [Code Beautify HTML](https://webformatter.com/)- used to make my HTML tidier
 * [Autoprefixer](https://autoprefixer.github)-used to add vendor prefixes to my CSS
-* [Am I Responsive tool](http://ami.responsivedesign.is/) for the image used in the UX section showing the different screen sizes (http://ami.responsivedesign.is/?url=https%3A%2F%2Fluizagit.github.io%2FVoice-nd-Piano-MS-1%2F#)
+* [Am I Responsive tool](http://ami.responsivedesign.is/) for the image used in the UX section showing the different screen sizes.
 * [Favicon Generator](https://realfavicongenerator.net/) - used to make the favicons
 * [Tinypng](tinypng.com )- used to compress my image files to try to reduce the loading time for each page
 * [Editor markownn language text](https://dillinger.io) - used to write ReadMe
 * [Figma](https://www.figma.com/) for wireframes
+* [Techsini](https://techsini.com/)for mockup
 
 
 ## Testing
@@ -231,20 +251,20 @@ At the bottom of each page there is a copyright information.
 - Try to submit the form and verify that a modal form appears.
 
 **Validating the Code**:
-HTML I validated the HTML with the W3C Markup Validation Service (https://validator.w3.org/)
-CSS I validated the CSS with the W3C CSS Validation Service (https://jigsaw.w3.org/css-validator/)
+- HTML I validated the HTML with the W3C Markup Validation Service (https://validator.w3.org/)
+- CSS I validated the CSS with the W3C CSS Validation Service (https://jigsaw.w3.org/css-validator/)
 
 Validation Results:
 Links to the results of the last validation completed can be found below:
 
 **HTML**
-[Home Page - An Error Found](Validation-results/INDEX-HTML-VALIDATION.jpg) *attribute "ride" not allowed on div element at this pont**, which was solved 
-[About page - No Errors Found](Validation-results/ABOUT-HTML-VALIDATION.JPG)
-[Classes page - No Errors Found](CLASSES-HTML-VALIDATION.JPG)
-[Contact page - No Errors Found](Validation-results/HTML-CONTACT-VALIDATION.JPG)
+- Home Page - [An Error Found](Validation-results/INDEX-HTML-VALIDATION.jpg) *attribute "ride" not allowed on div element at this pont**, which was solved 
+- About page - [No Errors Found](Validation-results/ABOUT-HTML-VALIDATION.JPG)
+- Classes page - [No Errors Found](Validation-results/CLASSES-HTML-VALIDATION.JPG)
+- Contact page - [No Errors Found](Validation-results/HTML-CONTACT-VALIDATION.JPG)
 
 **CSS**
-[A parse error which was solved](Validation-results/style.css-validation.jpg)
+-[A parse error](Validation-results/style.css-validation.jpg) which was solved.
 
 #### Testing on Different Browsers
 I manually tested the website and worked fine as expected on the following browsers:
@@ -254,7 +274,7 @@ I manually tested the website and worked fine as expected on the following brows
 * Mozilla Firefox
 * Microsoft Edge
 
-#### Testing on Different devices
+#### Testing on Different Devices
 I sent the website link to my friends and family members, so the website was tested on the following devices:
 
 * Iphone 5
@@ -293,24 +313,23 @@ If you would like to work on my project further you can clone it to your local m
 
 ## Credits
 - [Code Institute](https://codeinstitute.net/)
-- (https://www.w3schools.com https://www.w3schools.com/html/html5_semantic_elements.asp)
-- (https://getbootstrap.com/docs/4.3/layout/grid/)
-- (https://getbootstrap.com/docs/4.4/components/navbar/)
-- (https://getbootstrap.com/docs/4.2/components/carousel/)
-- (https://www.w3schools.com/howto/howto_css_pricing_table.asp)
-- (https://mdbootstrap.com)
-- (https://stackoverflow.com/)
+- https://www.w3schools.com https://www.w3schools.com/html/html5_semantic_elements.asp
+- https://getbootstrap.com/docs/4.3/layout/grid/
+- https://getbootstrap.com/docs/4.4/components/navbar/
+- https://getbootstrap.com/docs/4.2/components/carousel/
+- https://www.w3schools.com/howto/howto_css_pricing_table.asp
+- https://mdbootstrap.com
+- https://stackoverflow.com/
 
 ### Content
 
   The photos used in this site were obtained from the below sites except from those photos from Gallery section which were obtained from Voice and Piano Music School Facebook Page. (https://www.facebook.com/vocesipian/)
-*  (https://www.pexels.com/)
-*  (https://unsplash.com/)
-*  (https://pixabay.com/)
+*  https://www.pexels.com/
+*  https://unsplash.com/
+*  https://pixabay.com/
 
 The text content was adapted from original website (https://vocepian.wordpress.com/). 
 
 ### Acknowledgements
-
-- I received inspiration for this project from Code Insitute students's projects.
-- I would like to give a thank you to my mentor for all the help and advice he has given throught the milestone.
+- Code Institute for the course material and their inspiration from challenges and mini projects.
+- I would like to give a thank you to my mentor Seun Owonikoko for all the help and advice he has given throught the milestone.
