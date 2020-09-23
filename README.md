@@ -94,7 +94,7 @@ These are initial ideas for the structure of information and pages required, and
 this formed the basis of my final wireframes, which were created in Figma
 [Here](Wireframes-second_ideas)
 **Final wireframes**
-[Here](Wireframes-second_ideas/Wireframes-final_ideas/about-page.jpg)
+[Here](Wireframes-second _ideas/Wireframes-final _ideas/about-page.jpg)
 
 #### Surface
 
