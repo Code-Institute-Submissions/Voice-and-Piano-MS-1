@@ -2,7 +2,7 @@
 # Milestone 1 - Voice and Piano Music School
 
 
-[# Milestone 1 - Voice and Piano Music School](design/mockup-Voice-and-piano.JPG)
+![# Milestone 1 - Voice and Piano Music School](design/mockup-Voice-and-piano.JPG)
 
 This website was created for the first milestone project of Full Stack Developer Course. The project made is a small website for a Music School. 
 This website has been built for a good friend, teacher and founder of the Voice and Piano Music School.
@@ -54,14 +54,15 @@ The main purpose of the website would be to get people to interest in taking the
 * I am one of the owners of the school and want to see the school succeed. I want to clearly display information about upcoming classes in an attractive and informative way, and I want visitors to be able to easily able to contact the school easily.
 
 ### Strategy 
-I created a [moodboard](https://spark.adobe.com/) with Adobe Sparkfrom the research of colors, styles and components to visually illustrate the style I wished to pursue. You can see that moodboard [here].(design/moodboard.voiceandpiano.pdf)
+I created a moodboard with Adobe Spark (https://spark.adobe.com/)from the research of colors, styles and components to visually illustrate the style I wished to pursue. 
+You can see that moodboard [here](design/moodboard.voiceandpiano.pdf)
 The following websites were used in the research process for reference and inspiration:
-(https://solfeggio.cmsmasters.net/contacts/)
-(https://www.vivaldimusicacademy.com/)
-(https://www.playrightmusicltd.com/Piano-Lessons-Dublin/)
-(http://dublinschoolofmusic.ie/)
-(https://www.pianosplus.com/blog/piano-news/health-benefits-piano-playing/)
-(https://www.awwwards.com/)
+* (https://solfeggio.cmsmasters.net/contacts/)
+* (https://www.vivaldimusicacademy.com/)
+* (https://www.playrightmusicltd.com/Piano-Lessons-Dublin/)
+* (http://dublinschoolofmusic.ie/)
+* (https://www.pianosplus.com/blog/piano-news/health-benefits-piano-playing/)
+* (https://www.awwwards.com/)
 
 There are 2 main goals of the website:
 
@@ -93,7 +94,8 @@ These are initial ideas for the structure of information and pages required, and
 this formed the basis of my final wireframes, which were created in Figma
 [Here](Wireframes-second_ideas)
 **Final wireframes**
-[Here](Wireframes-final_ideas)
+[Here](Wireframes-second_ideas/Wireframes-final_ideas/about-page.jpg)
+
 #### Surface
 
 As a starting point I used the image chosen for my landing page which helped to choose the color pallete for the entire website.
