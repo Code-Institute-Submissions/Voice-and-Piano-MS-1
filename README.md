@@ -211,7 +211,7 @@ At the bottom of each page there is a copyright information.
 * [Tinypng](tinypng.com )- used to compress my image files to try to reduce the loading time for each page
 * [Editor markownn language text](https://dillinger.io) - used to write ReadMe
 * [Figma](https://www.figma.com/) for wireframes
-* [Techsini](https://techsini.com/)for mockup
+* [Techsini](https://techsini.com/) for mockup
 
 
 ## Testing
@@ -260,7 +260,7 @@ Validation Results:
 Links to the results of the last validation completed can be found below:
 
 **HTML**
-- Home Page - [An Error Found](Validation-results/INDEX-HTML-VALIDATION.JPG) *attribute "ride" not allowed on div element at this pont**, which was solved 
+- Home Page - [An Error Found](Validation-results/INDEX-HTML-VALIDATION.PNG):*attribute "ride" not allowed on div element at this pont**, which was solved 
 - About page - [No Errors Found](Validation-results/ABOUT-HTML-VALIDATION.JPG)
 - Classes page - [No Errors Found](Validation-results/CLASSES-HTML-VALIDATION.JPG)
 - Contact page - [No Errors Found](Validation-results/HTML-CONTACT-VALIDATION.JPG)
@@ -287,9 +287,9 @@ I sent the website link to my friends and family members, so the website was tes
 * Galaxy J7
 * Lg G6
 
-This website has been tested through the ,
+This website has been tested through the [Am I Responsive tool](http://ami.responsivedesign.is/) for the image used in the UX section showing the different screen sizes.Click [here](mockup-Voice-and-piano.JPG) to see the screenshot of the results achieved.,
 This website has been tested through the GTMetrix site, (https://gtmetrix.com/GTmetrix). Below is a screenshot of the results achieved. Page speed score was 75% and the time to fully load the site was 2.5s.
-[gtmetrix result](Validation-results/gtmetrix.jpg)
+[gtmetrix result](Validation-results/gtmetrix.JPG)
 
 ## Deployment
 
