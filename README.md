@@ -87,6 +87,8 @@ The key features of the website were developed based on user needs. Users should
 #### Skeleton
  I have included some basic sketching of ideas:
  
+
+
  **Initial ideas**
  
 - These are initial ideas for the structure of information and pages required, and sketching them down for desktop and mobile on paper as it is quicker.
@@ -258,13 +260,13 @@ Validation Results:
 Links to the results of the last validation completed can be found below:
 
 **HTML**
-- Home Page - [An Error Found](Validation-results/INDEX-HTML-VALIDATION.jpg) *attribute "ride" not allowed on div element at this pont**, which was solved 
+- Home Page - [An Error Found](Validation-results/INDEX-HTML-VALIDATION.JPG) *attribute "ride" not allowed on div element at this pont**, which was solved 
 - About page - [No Errors Found](Validation-results/ABOUT-HTML-VALIDATION.JPG)
 - Classes page - [No Errors Found](Validation-results/CLASSES-HTML-VALIDATION.JPG)
 - Contact page - [No Errors Found](Validation-results/HTML-CONTACT-VALIDATION.JPG)
 
 **CSS**
--[A parse error](Validation-results/style.css-validation.jpg) which was solved.
+-[A parse error](Validation-results/style.css-validation.JPG) which was solved.
 
 #### Testing on Different Browsers
 I manually tested the website and worked fine as expected on the following browsers:
@@ -285,6 +287,7 @@ I sent the website link to my friends and family members, so the website was tes
 * Galaxy J7
 * Lg G6
 
+This website has been tested through the ,
 This website has been tested through the GTMetrix site, (https://gtmetrix.com/GTmetrix). Below is a screenshot of the results achieved. Page speed score was 75% and the time to fully load the site was 2.5s.
 [gtmetrix result](Validation-results/gtmetrix.jpg)
 
@@ -320,6 +323,7 @@ If you would like to work on my project further you can clone it to your local m
 - https://www.w3schools.com/howto/howto_css_pricing_table.asp
 - https://mdbootstrap.com
 - https://stackoverflow.com/
+- https://www.youtube.com/ - general resource
 
 ### Content
 
