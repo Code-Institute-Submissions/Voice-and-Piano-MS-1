@@ -287,9 +287,8 @@ I sent the website link to my friends and family members, so the website was tes
 * Galaxy J7
 * Lg G6
 
-This website has been tested through the [Am I Responsive tool](http://ami.responsivedesign.is/) for the image used in the UX section showing the different screen sizes.Click [here](design/mockup-Voice-and-piano.JPG) to see the screenshot of the results achieved.
-
- The website has been tested through the GTMetrix site, (https://gtmetrix.com/GTmetrix). Below is a screenshot of the results achieved. Page speed score was 75% and the time to fully load the site was 2.5s.
+This website has been tested through the [Am I Responsive tool](http://ami.responsivedesign.is/) for the image used in the UX section showing the different screen sizes.Click [here](mockup-Voice-and-piano.JPG) to see the screenshot of the results achieved.,
+This website has been tested through the GTMetrix site, (https://gtmetrix.com/GTmetrix). Below is a screenshot of the results achieved. Page speed score was 75% and the time to fully load the site was 2.5s.
 [gtmetrix result](Validation-results/gtmetrix.JPG)
 
 ## Deployment
